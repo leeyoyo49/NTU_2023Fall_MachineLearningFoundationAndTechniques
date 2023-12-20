@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "html"
+version = "0.1.0"
+description = ""
+authors = ["leeyoyo49 <lee.s.yoyo0409@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+matplotlib = "^3.8.0"
+numpy = "^1.26.0"
+jupyter = "^1.0.0"
+notebook = "^7.0.4"
+scikit-learn = "^1.3.2"
+liblinear-official = "^2.47.0"
+torch = "^2.1.1"
+torchvision = "^0.16.1"
+pandas = "^2.1.3"
+pyarrow = "^14.0.1"
+fastparquet = "^2023.10.1"
+optuna = "^3.4.0"
+optuna-dashboard = "^0.13.0"
+
+
+[tool.poetry.group.dev.dependencies]
+pandas = "^2.1.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
