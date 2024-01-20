@@ -4,7 +4,7 @@ Course in National Taiwan University 2023 fall, Professor Hsuan-Tien Lin's cours
 
 An amazing course on the basics and mathematical foundation of the machine learning world, very intense mathematical background needed for this course, calculus, algebra, statistics, probability are oftenly used in this course.
 
-However, prof. Lin do manages to lecture the hard mathematics proofs in an easy and understandable way. (In the lecture slide)
+However, prof. Lin do manages to lecture the hard mathematics proofs in an easy and understandable way. :)
 
 Course Page: https://www.csie.ntu.edu.tw/~htlin/course/ml23fall/ (Actually most course's videos are available on Coursera)
 
