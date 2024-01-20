@@ -13,3 +13,23 @@ Qusetions for each homework is marked as _Q, and my solutions as _Sol.
 The solutoin for hw1's coding is not coded right, so is best for anyone seeing this repo not copying it.
 
 But the rest are pretty much fine, some minor mistakes only.
+
+---
+
+## Hw1 
+Learning Problems, Perceptron Learning Algorithm, and a lot of PLA
+
+## Hw2
+Hoeffding Inequalities, VC dimensions, Decision Stump
+
+## Hw3
+Noise and Error, Linear Regression, Linear Models, Multinomial Logistic Regressions
+
+## Hw4
+Harder Binary Linear Classifications, Overfitting, Learning Principles
+
+## Hw5
+Hard-margin SVM, SVM kernels, Soft-margin SVM, SVM Duality
+
+## Hw6
+More on SVM, Blending and Bagging, ADA boost, Gradient boosting, Neural Network, Decision trees, Random Forests.
