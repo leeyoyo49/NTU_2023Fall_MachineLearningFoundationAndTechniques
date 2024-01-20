@@ -33,3 +33,6 @@ Hard-margin SVM, SVM kernels, Soft-margin SVM, SVM Duality
 
 ## Hw6
 More on SVM, Blending and Bagging, ADA boost, Gradient boosting, Neural Network, Decision trees, Random Forests.
+
+## Final Project
+Predicting the number of Ubikes in each stations in Taipei city for each hour. Got some pretty decent result.
