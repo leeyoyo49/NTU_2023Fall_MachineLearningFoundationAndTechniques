@@ -36,3 +36,6 @@ More on SVM, Blending and Bagging, ADA boost, Gradient boosting, Neural Network,
 
 ## Final Project
 Predicting the number of Ubikes in each stations in Taipei city for each hour. Got some pretty decent result.
+
+
+# I hereby state that I shall not be held responsible for any misuse of my work or any academic integrity violations.
